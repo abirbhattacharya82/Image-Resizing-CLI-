@@ -1,6 +1,6 @@
 import cv2
 
-s=input("Enter The Name of the File along with the Address: ")
+s=input("Enter The Name of the File: ")
 #print(s)
 a=int(input("Enter the Desired Breadth: "))
 b=int(input("Enter the Desired Height: "))
